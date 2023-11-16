@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>NewspaperCutoutWhiteOnBlac-Rg.ttf</string>
+		<string>Old News.ttf</string>
+		<string>News papers st.ttf</string>
+		<string>Indiepress-KEGA.otf</string>
+		<string>Newspaper.ttf</string>
+		<string>SnorterPersonalUseRegular-p7DPO.ttf</string>
+		<string>ErodedPersonalUseRegular-Eaepe.ttf</string>
+		<string>CFNelsonOldNewsPaper.ttf</string>
+		<string>BebasNeue-Regular.ttf</string>
+		<string>CfFbiOldReportRegular-MJEx.ttf</string>
+		<string>OldNewspaperTypes.ttf</string>
+		<string>Old Newspaper Font.ttf</string>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
