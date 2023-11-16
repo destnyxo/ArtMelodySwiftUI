@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		563269732B03AD8200E84CB7 /* NewspaperCutoutWhiteOnBlac-Rg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 563269672B03AD8200E84CB7 /* NewspaperCutoutWhiteOnBlac-Rg.ttf */; };
+		563269742B03AD8200E84CB7 /* Old Newspaper Font.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 563269682B03AD8200E84CB7 /* Old Newspaper Font.ttf */; };
+		563269752B03AD8200E84CB7 /* OldNewspaperTypes.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 563269692B03AD8200E84CB7 /* OldNewspaperTypes.ttf */; };
+		563269762B03AD8200E84CB7 /* CfFbiOldReportRegular-MJEx.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5632696A2B03AD8200E84CB7 /* CfFbiOldReportRegular-MJEx.ttf */; };
+		563269772B03AD8200E84CB7 /* BebasNeue-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5632696B2B03AD8200E84CB7 /* BebasNeue-Regular.ttf */; };
+		563269782B03AD8200E84CB7 /* CFNelsonOldNewsPaper.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5632696C2B03AD8200E84CB7 /* CFNelsonOldNewsPaper.ttf */; };
+		563269792B03AD8200E84CB7 /* ErodedPersonalUseRegular-Eaepe.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5632696D2B03AD8200E84CB7 /* ErodedPersonalUseRegular-Eaepe.ttf */; };
+		5632697A2B03AD8200E84CB7 /* SnorterPersonalUseRegular-p7DPO.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5632696E2B03AD8200E84CB7 /* SnorterPersonalUseRegular-p7DPO.ttf */; };
+		5632697B2B03AD8200E84CB7 /* Newspaper.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5632696F2B03AD8200E84CB7 /* Newspaper.ttf */; };
+		5632697C2B03AD8200E84CB7 /* News papers st.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 563269702B03AD8200E84CB7 /* News papers st.ttf */; };
+		5632697D2B03AD8200E84CB7 /* Old News.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 563269712B03AD8200E84CB7 /* Old News.ttf */; };
+		5632697E2B03AD8200E84CB7 /* Indiepress-KEGA.otf in Resources */ = {isa = PBXBuildFile; fileRef = 563269722B03AD8200E84CB7 /* Indiepress-KEGA.otf */; };
+		563269842B03AD9100E84CB7 /* destiny.wav in Resources */ = {isa = PBXBuildFile; fileRef = 563269802B03AD9100E84CB7 /* destiny.wav */; };
+		563269852B03AD9100E84CB7 /* meek.wav in Resources */ = {isa = PBXBuildFile; fileRef = 563269812B03AD9100E84CB7 /* meek.wav */; };
+		563269862B03AD9100E84CB7 /* meesha.wav in Resources */ = {isa = PBXBuildFile; fileRef = 563269822B03AD9100E84CB7 /* meesha.wav */; };
+		563269872B03AD9100E84CB7 /* keith.wav in Resources */ = {isa = PBXBuildFile; fileRef = 563269832B03AD9100E84CB7 /* keith.wav */; };
+		56D7A1CF2B0529AE00DB0375 /* ArticleLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D7A1CE2B0529AE00DB0375 /* ArticleLayout.swift */; };
 		5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F66F2AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift */; };
 		5DE6F6722AFADF05004ABB4F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6712AFADF05004ABB4F /* ContentView.swift */; };
 		5DE6F6742AFADF08004ABB4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DE6F6732AFADF08004ABB4F /* Assets.xcassets */; };
@@ -19,6 +36,24 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		563269672B03AD8200E84CB7 /* NewspaperCutoutWhiteOnBlac-Rg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NewspaperCutoutWhiteOnBlac-Rg.ttf"; sourceTree = "<group>"; };
+		563269682B03AD8200E84CB7 /* Old Newspaper Font.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Old Newspaper Font.ttf"; sourceTree = "<group>"; };
+		563269692B03AD8200E84CB7 /* OldNewspaperTypes.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = OldNewspaperTypes.ttf; sourceTree = "<group>"; };
+		5632696A2B03AD8200E84CB7 /* CfFbiOldReportRegular-MJEx.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CfFbiOldReportRegular-MJEx.ttf"; sourceTree = "<group>"; };
+		5632696B2B03AD8200E84CB7 /* BebasNeue-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BebasNeue-Regular.ttf"; sourceTree = "<group>"; };
+		5632696C2B03AD8200E84CB7 /* CFNelsonOldNewsPaper.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = CFNelsonOldNewsPaper.ttf; sourceTree = "<group>"; };
+		5632696D2B03AD8200E84CB7 /* ErodedPersonalUseRegular-Eaepe.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ErodedPersonalUseRegular-Eaepe.ttf"; sourceTree = "<group>"; };
+		5632696E2B03AD8200E84CB7 /* SnorterPersonalUseRegular-p7DPO.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SnorterPersonalUseRegular-p7DPO.ttf"; sourceTree = "<group>"; };
+		5632696F2B03AD8200E84CB7 /* Newspaper.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Newspaper.ttf; sourceTree = "<group>"; };
+		563269702B03AD8200E84CB7 /* News papers st.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "News papers st.ttf"; sourceTree = "<group>"; };
+		563269712B03AD8200E84CB7 /* Old News.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Old News.ttf"; sourceTree = "<group>"; };
+		563269722B03AD8200E84CB7 /* Indiepress-KEGA.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Indiepress-KEGA.otf"; sourceTree = "<group>"; };
+		563269802B03AD9100E84CB7 /* destiny.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = destiny.wav; sourceTree = "<group>"; };
+		563269812B03AD9100E84CB7 /* meek.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = meek.wav; sourceTree = "<group>"; };
+		563269822B03AD9100E84CB7 /* meesha.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = meesha.wav; sourceTree = "<group>"; };
+		563269832B03AD9100E84CB7 /* keith.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = keith.wav; sourceTree = "<group>"; };
+		563269912B03CE3C00E84CB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		56D7A1CE2B0529AE00DB0375 /* ArticleLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleLayout.swift; sourceTree = "<group>"; };
 		5DE6F66C2AFADF05004ABB4F /* SwiftUIStoryTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIStoryTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DE6F66F2AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStoryTemplateApp.swift; sourceTree = "<group>"; };
 		5DE6F6712AFADF05004ABB4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -42,6 +77,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		563269662B03AD8200E84CB7 /* Fonts News */ = {
+			isa = PBXGroup;
+			children = (
+				563269672B03AD8200E84CB7 /* NewspaperCutoutWhiteOnBlac-Rg.ttf */,
+				563269682B03AD8200E84CB7 /* Old Newspaper Font.ttf */,
+				563269692B03AD8200E84CB7 /* OldNewspaperTypes.ttf */,
+				5632696A2B03AD8200E84CB7 /* CfFbiOldReportRegular-MJEx.ttf */,
+				5632696B2B03AD8200E84CB7 /* BebasNeue-Regular.ttf */,
+				5632696C2B03AD8200E84CB7 /* CFNelsonOldNewsPaper.ttf */,
+				5632696D2B03AD8200E84CB7 /* ErodedPersonalUseRegular-Eaepe.ttf */,
+				5632696E2B03AD8200E84CB7 /* SnorterPersonalUseRegular-p7DPO.ttf */,
+				5632696F2B03AD8200E84CB7 /* Newspaper.ttf */,
+				563269702B03AD8200E84CB7 /* News papers st.ttf */,
+				563269712B03AD8200E84CB7 /* Old News.ttf */,
+				563269722B03AD8200E84CB7 /* Indiepress-KEGA.otf */,
+			);
+			path = "Fonts News";
+			sourceTree = "<group>";
+		};
+		5632697F2B03AD9100E84CB7 /* Music  */ = {
+			isa = PBXGroup;
+			children = (
+				563269802B03AD9100E84CB7 /* destiny.wav */,
+				563269812B03AD9100E84CB7 /* meek.wav */,
+				563269822B03AD9100E84CB7 /* meesha.wav */,
+				563269832B03AD9100E84CB7 /* keith.wav */,
+			);
+			path = "Music ";
+			sourceTree = "<group>";
+		};
 		5DE6F6632AFADF05004ABB4F = {
 			isa = PBXGroup;
 			children = (
@@ -61,6 +126,7 @@
 		5DE6F66E2AFADF05004ABB4F /* SwiftUIStoryTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				563269912B03CE3C00E84CB7 /* Info.plist */,
 				5DE6F66F2AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift */,
 				5DE6F6712AFADF05004ABB4F /* ContentView.swift */,
 				5DE6F6872AFAE47A004ABB4F /* Chapter1 */,
@@ -69,6 +135,7 @@
 				5DE6F68A2AFAE492004ABB4F /* Chapter4 */,
 				5DE6F68B2AFAE49B004ABB4F /* Chapter5 */,
 				5DE6F6732AFADF08004ABB4F /* Assets.xcassets */,
+				563269662B03AD8200E84CB7 /* Fonts News */,
 				5DE6F6752AFADF08004ABB4F /* Preview Content */,
 			);
 			path = SwiftUIStoryTemplate;
@@ -77,6 +144,7 @@
 		5DE6F6752AFADF08004ABB4F /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				5632697F2B03AD9100E84CB7 /* Music  */,
 				5DE6F6762AFADF08004ABB4F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -102,6 +170,7 @@
 			isa = PBXGroup;
 			children = (
 				5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */,
+				56D7A1CE2B0529AE00DB0375 /* ArticleLayout.swift */,
 			);
 			path = Chapter3;
 			sourceTree = "<group>";
@@ -180,8 +249,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				563269782B03AD8200E84CB7 /* CFNelsonOldNewsPaper.ttf in Resources */,
+				5632697D2B03AD8200E84CB7 /* Old News.ttf in Resources */,
+				5632697B2B03AD8200E84CB7 /* Newspaper.ttf in Resources */,
+				563269842B03AD9100E84CB7 /* destiny.wav in Resources */,
+				563269872B03AD9100E84CB7 /* keith.wav in Resources */,
+				563269862B03AD9100E84CB7 /* meesha.wav in Resources */,
 				5DE6F6772AFADF08004ABB4F /* Preview Assets.xcassets in Resources */,
+				563269742B03AD8200E84CB7 /* Old Newspaper Font.ttf in Resources */,
+				563269852B03AD9100E84CB7 /* meek.wav in Resources */,
+				563269772B03AD8200E84CB7 /* BebasNeue-Regular.ttf in Resources */,
+				5632697C2B03AD8200E84CB7 /* News papers st.ttf in Resources */,
+				563269792B03AD8200E84CB7 /* ErodedPersonalUseRegular-Eaepe.ttf in Resources */,
+				563269762B03AD8200E84CB7 /* CfFbiOldReportRegular-MJEx.ttf in Resources */,
+				563269732B03AD8200E84CB7 /* NewspaperCutoutWhiteOnBlac-Rg.ttf in Resources */,
+				563269752B03AD8200E84CB7 /* OldNewspaperTypes.ttf in Resources */,
+				5632697A2B03AD8200E84CB7 /* SnorterPersonalUseRegular-p7DPO.ttf in Resources */,
 				5DE6F6742AFADF08004ABB4F /* Assets.xcassets in Resources */,
+				5632697E2B03AD8200E84CB7 /* Indiepress-KEGA.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -192,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56D7A1CF2B0529AE00DB0375 /* ArticleLayout.swift in Sources */,
 				5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */,
 				5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */,
 				5DE6F6722AFADF05004ABB4F /* ContentView.swift in Sources */,
@@ -335,11 +421,11 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SwiftUIStoryTemplate/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -364,11 +450,11 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SwiftUIStoryTemplate/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
