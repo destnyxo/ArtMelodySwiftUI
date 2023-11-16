@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "uuid=BE65B3AF-F3CF-4106-BD38-22737AF80B1E&library=1&type=1&mode=1&loc=true&cap=true.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
