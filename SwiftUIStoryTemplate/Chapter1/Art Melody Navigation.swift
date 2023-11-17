@@ -46,7 +46,7 @@ struct Art_Melody: View {
 //                                                withAnimation {
 //                                                    glow.toggle()
 //                                                }
-//                                            } // have the emojis floating
+//                                            }  // have the emojis floating
                       //  .frame(maxWidth: .infinity, maxHeight: .infinity)
                      //.background(Color.white)
                     //   .frame(maxWidth: .infinity, alignment: .leading)

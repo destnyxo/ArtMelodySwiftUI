@@ -16,14 +16,14 @@
 		5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */; };
 		5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */; };
 		9D7988CC2B02D6BE009EC7FF /* Article Chapter 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7988CB2B02D6BE009EC7FF /* Article Chapter 1.swift */; };
-		9D7988CE2B02D6CF009EC7FF /* Art Melody Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7988CD2B02D6CF009EC7FF /* Art Melody Navigation.swift */; };
-		9D7988D02B02D6D7009EC7FF /* Chapter Sliders Init.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7988CF2B02D6D7009EC7FF /* Chapter Sliders Init.swift */; };
 		9D7988D42B02D6E6009EC7FF /* ChapterSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7988D32B02D6E5009EC7FF /* ChapterSliderView.swift */; };
 		9D7988F82B02D778009EC7FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D7988F72B02D778009EC7FF /* Assets.xcassets */; };
 		9D7988FE2B02D824009EC7FF /* destiny.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9D7988FA2B02D824009EC7FF /* destiny.wav */; };
 		9D7988FF2B02D824009EC7FF /* meek.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9D7988FB2B02D824009EC7FF /* meek.wav */; };
 		9D7989002B02D824009EC7FF /* meesha.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9D7988FC2B02D824009EC7FF /* meesha.wav */; };
 		9D7989012B02D824009EC7FF /* keith.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9D7988FD2B02D824009EC7FF /* keith.wav */; };
+		9D79892A2B02F8E7009EC7FF /* Story w functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7989292B02F8E7009EC7FF /* Story w functions.swift */; };
+		9DB64C2D2B05D7C200273274 /* Story Switches.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB64C2C2B05D7C200273274 /* Story Switches.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,8 +37,6 @@
 		5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4View.swift; sourceTree = "<group>"; };
 		5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter5View.swift; sourceTree = "<group>"; };
 		9D7988CB2B02D6BE009EC7FF /* Article Chapter 1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Article Chapter 1.swift"; sourceTree = "<group>"; };
-		9D7988CD2B02D6CF009EC7FF /* Art Melody Navigation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Art Melody Navigation.swift"; sourceTree = "<group>"; };
-		9D7988CF2B02D6D7009EC7FF /* Chapter Sliders Init.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Chapter Sliders Init.swift"; sourceTree = "<group>"; };
 		9D7988D32B02D6E5009EC7FF /* ChapterSliderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChapterSliderView.swift; sourceTree = "<group>"; };
 		9D7988F72B02D778009EC7FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../Library/Mobile Documents/com~apple~CloudDocs/News Imagery Boxes Copy/Slider Practice 2023/Assets.xcassets"; sourceTree = "<group>"; };
 		9D7988FA2B02D824009EC7FF /* destiny.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = destiny.wav; sourceTree = "<group>"; };
@@ -58,6 +56,8 @@
 		9D7989262B02D837009EC7FF /* NewspaperCutoutWhiteOnBlac-Rg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NewspaperCutoutWhiteOnBlac-Rg.ttf"; sourceTree = "<group>"; };
 		9D7989272B02D837009EC7FF /* Newspaper.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Newspaper.ttf; sourceTree = "<group>"; };
 		9D7989282B02D89D009EC7FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		9D7989292B02F8E7009EC7FF /* Story w functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Story w functions.swift"; sourceTree = "<group>"; };
+		9DB64C2C2B05D7C200273274 /* Story Switches.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Story Switches.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,11 +117,11 @@
 		5DE6F6872AFAE47A004ABB4F /* Chapter1 */ = {
 			isa = PBXGroup;
 			children = (
+				9DB64C2C2B05D7C200273274 /* Story Switches.swift */,
+				9D7988CB2B02D6BE009EC7FF /* Article Chapter 1.swift */,
 				5DE6F67D2AFAE3DF004ABB4F /* Chapter1View.swift */,
 				9D7988D32B02D6E5009EC7FF /* ChapterSliderView.swift */,
-				9D7988CB2B02D6BE009EC7FF /* Article Chapter 1.swift */,
-				9D7988CD2B02D6CF009EC7FF /* Art Melody Navigation.swift */,
-				9D7988CF2B02D6D7009EC7FF /* Chapter Sliders Init.swift */,
+				9D7989292B02F8E7009EC7FF /* Story w functions.swift */,
 			);
 			path = Chapter1;
 			sourceTree = "<group>";
@@ -265,7 +265,8 @@
 			files = (
 				5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */,
 				5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */,
-				9D7988D02B02D6D7009EC7FF /* Chapter Sliders Init.swift in Sources */,
+				9DB64C2D2B05D7C200273274 /* Story Switches.swift in Sources */,
+				9D79892A2B02F8E7009EC7FF /* Story w functions.swift in Sources */,
 				5DE6F6722AFADF05004ABB4F /* ContentView.swift in Sources */,
 				5DE6F6802AFAE3E6004ABB4F /* Chapter2View.swift in Sources */,
 				5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */,
@@ -273,7 +274,6 @@
 				5DE6F67E2AFAE3DF004ABB4F /* Chapter1View.swift in Sources */,
 				9D7988CC2B02D6BE009EC7FF /* Article Chapter 1.swift in Sources */,
 				5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */,
-				9D7988CE2B02D6CF009EC7FF /* Art Melody Navigation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
